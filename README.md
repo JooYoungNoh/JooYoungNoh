@@ -1,1 +1,1 @@
-https://render.gitanimals.org/users/{JooYoungNoh}
+https://render.gitanimals.org/users/JooYoungNoh
